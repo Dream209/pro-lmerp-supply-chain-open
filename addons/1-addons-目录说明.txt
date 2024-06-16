@@ -1,0 +1,10 @@
+
+extend				扩展包目录
+standard			开发基础目录
+trade				开发行业目录
+special				开发定制目录
+
+主要使用：
+1、从第三方或是OCA测试通过的放在extend扩展包目录；
+2、自己开发的放在standard、trade，并提供开源下载；
+3、提供给定制化的功能放在special，特殊需求使用；

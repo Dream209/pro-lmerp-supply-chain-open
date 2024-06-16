@@ -1,0 +1,12 @@
+
+====================================
+最后更新时间：2024-02-08
+====================================
+
+1、windows
+
+E:\www\w_pro\w_pro_lmerp\pro_lmerp_t1\codes\v1\v1.0_lmerp16
+
+cd 
+venv_dev\Scripts\activate
+python lmerp-bin -c lmerp_dev.conf --dev=all

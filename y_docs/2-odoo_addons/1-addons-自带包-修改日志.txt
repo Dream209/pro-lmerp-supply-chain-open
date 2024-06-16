@@ -1,0 +1,19 @@
+
+
+Time: 2023-04-26 18:45
+Subject: 修改title
+Content: 
+web\static\src\webclient\webclient.js		
+36  this.title.setParts({ zopenerp: "Odoo" }); // zopenerp is easy to grep
+
+web\views\webclient_templates.xml
+14   <title t-esc="title or 'Odoo'"/>
+120  <a href="https://www.odoo.com?utm_source=db&amp;utm_medium=auth" target="_blank">Powered by <span>Odoo</span></a>
+
+
+Time: 2023-04-24 17:00
+Subject: 药丸改为药片
+Content: 
+product\i18n\zh_CN.po		1806 msgid "Pills"
+website\i18n\zh_CN.po		7601 msgid "Pill"
+website_sale\i18n\zh_CN.po	2732 msgid "Pills"	

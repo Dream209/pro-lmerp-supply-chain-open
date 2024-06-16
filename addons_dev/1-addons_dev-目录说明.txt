@@ -1,0 +1,11 @@
+
+dev_a	开发目录
+dev_b	一个完整包测试目录
+dev_c	一个完整包测试目录
+dev_d	一个完整包测试目录
+
+测试完成后：
+1、从addons_dev/dev_b移入addons/addons_add_tmp2目录;
+2、整个包稳定一段时间后从addons/addons_add_tmp2移入addons/addons_add_tmp目录；
+3、测试一段时间后从addons/addons_add_tmp目录/addons_add_test目录，提供试用；
+4、最终使用一段时间后移入addons/addons_add目录，提供生产使用；

@@ -1,0 +1,7 @@
+
+addons 目录说明：
+
+1、系统默认目录为 addons，为空；
+2、从第三方下载下来的 addons，放在目录 addons_add；
+3、自己开发出来的稳定 addons，放在目录 addons_base;
+4、自己开发中的待测试版 addons，放在目录 addons_dev;

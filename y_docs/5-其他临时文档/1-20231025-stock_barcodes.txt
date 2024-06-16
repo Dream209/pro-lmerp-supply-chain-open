@@ -1,0 +1,12 @@
+
+第一步先安装oca的stock_barcodes条码出入库模块
+Stock Barcodes | The Odoo Community Organisation | OCA
+https://odoo-community.org/shop/stock-barcodes-4894?search=Barcodes#attr=15491
+
+【Odoo社区版安卓平板App适配。实现快速保存客户信息到手机通讯录，上传手机上的图片、文件等功能，赋予社区版更好的移动体验。】 https://www.bilibili.com/video/BV1yL411G7aJ?share_source=copy_web&vd_source=f3c58934c076a87320dacec62cf60039
+GitHub - digitalliuzg/moco-odoo-client: Mobile App for Odoo Enterprise/Community Version
+https://github.com/digitalliuzg/moco-odoo-client
+
+大多数app需求都可以通过PWA解决，不需要单独开发
+渐进式网络应用 | Odoo 社区组织 | 亚奥理事会
+https://odoo-community.org/shop/progressive-web-application-5382#attr=8190

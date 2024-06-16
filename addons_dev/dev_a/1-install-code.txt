@@ -1,0 +1,13 @@
+
+E:\www\w_dev\w_a_xxerp\v1\v1.0_xxerp16
+E:\www\w_pro\w_pro_odoo_t1\pro-codes\v1.0-odoo16
+
+开发模式：
+python odoo-bin --dev=all -c odoo_dev.conf 
+
+创建脚手架：
+python odoo-bin scaffold dev_aaa addons_dev
+
+
+临时链接：
+http://www.odoov.com/index.php?title=%E6%A8%A1%E5%9E%8B%E5%B1%82

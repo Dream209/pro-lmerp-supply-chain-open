@@ -1,0 +1,9 @@
+
+1、app oca链接：
+https://apps.odoo.com/apps/modules/browse?author=Odoo Community Association (OCA)
+
+当前：https://apps.odoo.com/apps/modules/browse/page/4?author=Odoo+Community+Association+%28OCA%29
+
+
+Login in Odoo from URL (by link)
+https://apps.odoo.com/apps/modules/16.0/login_controller/
